@@ -31,7 +31,7 @@ Ek futuristic martial arts platform jo training ko digitalize kar raha hai.
 
 ## 🏆 Achievements
 - *Karate:* District Level Athlete.
-- *Certifications:* [Click here to view my Karate Certificate](certificate01.jpg)(certificate02.jpg)
+- *Certifications:* [Click here to view my Karate Certificate](certificate01.jpg)[Click here to view my Karate Certificate](certificate02.jpg)
 
 ---
 
